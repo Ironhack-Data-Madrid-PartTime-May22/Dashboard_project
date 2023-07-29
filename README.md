@@ -1,5 +1,6 @@
 # Dashboard_project
 
+![portada](/images/portada.webp)
 
 
 Los informes y cuadros de mando son herramientas poderosas para comunicar información importante de un vistazo. El objetivo de este reto es crear un Report/Dashboard  interactivo y visualmente atractivo, haciendo uso de las herramientas Tableau, Power BI o Streamlit. Podrás utilizar la base de datos que tu quieras.
@@ -26,4 +27,26 @@ En la etapa inicial, tendrás definir los objetivos específicos que deseas logr
 
 * Exportación y Compartición: Integración de funcionalidades para exportar datos o compartir informes con otros colaboradores.
 
-# Plazo y Entrega:
+# Entrega:
+
+La fecha final para la entrega del dashboard será el **sabado 2 de agosto**. 
+
+Seguiremos la misma mecánica de entrega que en el proyecto anterior. 
+
+- Crea un repositorio con todos los directorios necesarios en función de de la necesidades del proyecto. 
+
+- Elabora un readme atractivo para tus posibles lectores;  recuerda sin Readme se considera no entregado. 
+
+
+
+
+- Compartir Dashboard
+    - Si optas por tableau recuerda que tendrás que publicar el dashboard en su página. Guía de publicación  [aquí](https://help.tableau.com/current/pro/desktop/es-es/publish_workbooks_howto.htm) 
+
+    - Si por el contrario prefieres hacer un dashboard PowerBI adjunta el archivo ".pbix" en el repositorio. 
+
+    - Si optas por Streamlit tendras que adjuntar un main en el repositorio. 
+
+
+- Crear una issues nueva en este repositorio con el siguiente titulo `[ETL-Project] (tunombrecompleto)`. En la descripción tendrás que compartir el enlace a tu repositorio 
+
