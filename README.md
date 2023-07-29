@@ -29,7 +29,7 @@ En la etapa inicial, tendrás definir los objetivos específicos que deseas logr
 
 # Entrega:
 
-La fecha final para la entrega del dashboard será el **sabado 2 de agosto**. 
+La fecha final para la entrega del dashboard será el **sabado 2 de septiembre**. 
 
 Seguiremos la misma mecánica de entrega que en el proyecto anterior. 
 
